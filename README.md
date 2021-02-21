@@ -1,2 +1,1 @@
-# kattis-submissions
-A Kattis submissions repository
+# A Kattis submissions repository
