@@ -4,7 +4,8 @@ Some solution to [Kattis](https://open.kattis.com) problems.
 Made by Nathanaël Bayle.
   
 
-=============
+## Links  
+  
 Problem | Language | 🔗
 :---: | :---: | :---:
 Different | [:cat:](https://open.kattis.com/problems/different/ ) | [:cat:](https://open.kattis.com/problems/different/ )
