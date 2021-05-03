@@ -1,6 +1,6 @@
 # A Kattis submissions repository
 
-Some solution to [Kattis](https://open.kattis.com) problems.
+Some solution to [Kattis](https://open.kattis.com) problems.  
 Made by Nathanaël Bayle during the spring semester 2021.
 
 
