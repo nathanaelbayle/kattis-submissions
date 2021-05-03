@@ -2,6 +2,14 @@ import sys
 
 sys.setrecursionlimit(10000)
 
+def dfs( node ):
+    global balance
+    balance += liste[node]
+    visited[node] = True
+    for x in adjacency[node]:
+        if not visited[x]:
+            dfs(x)
+
 n, m =  map(int, sys.stdin.readline().split(" "))
 
 liste = []
@@ -23,13 +31,6 @@ for i in range(m):
 visited = [False]*n
 
 balance = 0
-def dfs( node ):
-    global balance
-    balance += liste[node]
-    visited[node] = True
-    for x in adjacency[node]:
-        if not visited[x]:
-            dfs(x)
 
 for i in range(n):
     if visited[i]:
