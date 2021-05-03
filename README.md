@@ -7,7 +7,7 @@ Made by Nathanaël Bayle.
 ## Useful Informations
   
 Problem | Language | Links
-------------- | ------------- | -------------
+------------- | ------------- | :-------------:
 Bridges and Tunnels | [bridgesandtunnels.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/bridgesandtunnels.py) | [:link:](https://open.kattis.com/problems/bridgesandtunnels/ )
 The Citrus Intern | [citrusintern.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/citrusintern.py) | [:link:](https://open.kattis.com/problems/citrusintern/ )
 Coloring Graphs | [coloring.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/coloring.py) | [:link:](https://open.kattis.com/problems/coloring/ )
