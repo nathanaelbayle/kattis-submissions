@@ -10,7 +10,7 @@ Problem | Language | Links
 ------------- | ------------- | -------------
 Bridges and Tunnels | [bridgesandtunnels.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/bridgesandtunnels.py) | [:link:](https://open.kattis.com/problems/bridgesandtunnels/ )
 The Citrus Intern | [citrusintern.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/citrusintern.py) | [:link:](https://open.kattis.com/problems/citrusintern/ )
-The Citrus Intern | [coloring.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/coloring.py) | [:link:](https://open.kattis.com/problems/coloring/ )
+Coloring Graphs | [coloring.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/coloring.py) | [:link:](https://open.kattis.com/problems/coloring/ )
 Different | [different.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/different.py) | [:link:](https://open.kattis.com/problems/different/ )
 
 
