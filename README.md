@@ -1,4 +1,5 @@
 # A Kattis submissions repository
 
 
-/play 56k
+
+[Different](https://open.kattis.com/problems/different/ "Different")
