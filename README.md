@@ -7,10 +7,9 @@ Made by Nathanaël Bayle.
 ## Problems
 Problem  | 🔗
 :---: | :---:
-Different  | [Link](https://open.kattis.com/problems/different/ )
-Different  | [Link](https://open.kattis.com/problems/bridgesandtunnels/ )
-
-
+Different  | [:cat:](https://open.kattis.com/problems/different/ )
+Bridges and Tunnels  | [:cat:](https://open.kattis.com/problems/bridgesandtunnels/ )
+Bridges and Tunnels  | [:cat:](https://open.kattis.com/problems/citrusintern/ )
 
 
 
