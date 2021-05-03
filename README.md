@@ -7,32 +7,16 @@ Made by Nathanaël Bayle.
 ## Problems
 Problem  | 🔗
 :---: | :---:
-Different  | [Link](https://open.kattis.com/problems/different/ "Link")
-Content Cell  | Content Cell
+Different  | [Link](https://open.kattis.com/problems/different/ )
+Different  | [Link](https://open.kattis.com/problems/bridgesandtunnels/ )
 
 
 
 
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
-[Different](https://open.kattis.com/problems/different/ "Different")
+
+
+
+
 
 
 
