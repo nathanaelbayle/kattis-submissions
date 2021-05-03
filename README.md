@@ -15,8 +15,8 @@ Counting Triangles | [countingtriangles.py](https://github.com/nathanaelbayle/ka
 Crusaders of the Lost Mark | [crusaders.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/crusaders.py) | [:link:](https://open.kattis.com/problems/crusaders/ )
 Different | [different.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/different.py) | [:link:](https://open.kattis.com/problems/different/ )
 Excavator Expedition | [excavatorexpedition.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/excavatorexpedition.py) | [:link:](https://open.kattis.com/problems/excavatorexpedition/ )
-
-
+Final Exam | [finalexam2.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/finalexam2.py) | [:link:](https://open.kattis.com/problems/finalexam2/ )
+Fountain | [fontan.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/fontan.py) | [:link:](https://open.kattis.com/problems/fontan/ )
 
 
 
