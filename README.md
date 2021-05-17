@@ -24,12 +24,16 @@ Inquiry I | [inquiryi.py](https://github.com/nathanaelbayle/kattis-submissions/b
 Just for Sidekicks | [justforsidekicks.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/justforsidekicks.py) | [:link:](https://open.kattis.com/problems/justforsidekicks/ )
 Landline Telephone Network | [landline.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/landline.py) | [:link:](https://open.kattis.com/problems/landline/ )
 Money Matters | [moneymatters.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/moneymatters.py) | [:link:](https://open.kattis.com/problems/moneymatters/ )
+Mortgage | [mortgage.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/mortgage.py) | [:link:](https://open.kattis.com/problems/mortgage/ )
+Name That Permutation | [namethatpermutation.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/namethatpermutation.py) | [:link:](https://open.kattis.com/problems/namethatpermutation/ )
 Paintball | [paintball.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/paintball.py) | [:link:](https://open.kattis.com/problems/paintball/ )
 Points of Snow | [pointsofsnow.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/pointsofsnow.py) | [:link:](https://uib.kattis.com/sessions/wihcei/problems/uib.pointsofsnow )
+Simple Polygon | [simplepolygon.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/simplepolygon.py) | [:link:](https://open.kattis.com/problems/simplepolygon/ )
 Reversing Roads | [reversingroads.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/reversingroads.py) | [:link:](https://open.kattis.com/problems/reversingroads/ )
 Social Advertising | [socialadvertising.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/socialadvertising.py) | [:link:](https://open.kattis.com/problems/socialadvertising/ )
+String Matching | [stringmatching.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/stringmatching.py) | [:link:](https://open.kattis.com/problems/stringmatching/ )
 Train Sorting | [trainsorting.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/trainsorting.py) | [:link:](https://open.kattis.com/problems/trainsorting/ )
-Take Two Stones | [twostones.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/twostones.py) | [:link:](https://open.kattis.com/problems/twostones/ )
+Take Two Stones | [twostones.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/twostones.py) | [:link:](https://open.kattis.com/problems/twostones/)
 Water | [water.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/water.py) | [:link:](https://open.kattis.com/problems/water/ )
 
 
