@@ -14,6 +14,7 @@ Clock Pictures | [clockpictures.py](https://github.com/nathanaelbayle/kattis-sub
 Coloring Graphs | [coloring.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/coloring.py) | [:link:](https://open.kattis.com/problems/coloring/ )
 Counting Triangles | [countingtriangles.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/countingtriangles.py) | [:link:](https://open.kattis.com/problems/countingtriangles/ )
 Crusaders of the Lost Mark | [crusaders.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/crusaders.py) | [:link:](https://open.kattis.com/problems/crusaders/ )
+Dart Scoring | [dartscoring.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/dartscoring.py) | [:link:](https://open.kattis.com/problems/dartscoring/ )
 Different | [different.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/different.py) | [:link:](https://open.kattis.com/problems/different/ )
 Excavator Expedition | [excavatorexpedition.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/excavatorexpedition.py) | [:link:](https://open.kattis.com/problems/excavatorexpedition/ )
 Final Exam | [finalexam2.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/finalexam2.py) | [:link:](https://open.kattis.com/problems/finalexam2/ )
