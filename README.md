@@ -12,7 +12,7 @@ Bridges and Tunnels | [bridgesandtunnels.py](https://github.com/nathanaelbayle/k
 The Citrus Intern | [citrusintern.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/citrusintern.py) | [:link:](https://open.kattis.com/problems/citrusintern/ )
 Clock Pictures | [clockpictures.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/clockpictures.py) | [:link:](https://open.kattis.com/problems/clockpictures/ )
 Coloring Graphs | [coloring.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/coloring.py) | [:link:](https://open.kattis.com/problems/coloring/ )
-Compass | [compass.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/compass.py) | [:link:](https://open.kattis.com/problems/compass/ )
+Jumbled Compass | [compass.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/compass.py) | [:link:](https://open.kattis.com/problems/compass/ )
 Counting Triangles | [countingtriangles.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/countingtriangles.py) | [:link:](https://open.kattis.com/problems/countingtriangles/ )
 Crusaders of the Lost Mark | [crusaders.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/crusaders.py) | [:link:](https://open.kattis.com/problems/crusaders/ )
 Dart Scoring | [dartscoring.py](https://github.com/nathanaelbayle/kattis-submissions/blob/main/Submissions/dartscoring.py) | [:link:](https://open.kattis.com/problems/dartscoring/ )
